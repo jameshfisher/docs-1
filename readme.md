@@ -7,7 +7,6 @@ You can access this documentation online at https://zeit.co/docs .
 
 Download the copy of this repostory. 
 sssd
-sddd
 ~~~sh
 git clone https://github.com/zeit/docs.git
 ~~~
